@@ -18,3 +18,5 @@
 - **Backend**: Firebase Authentication & Firestore Database for scalable and secure user management.
 - **Email Service**: Firebase for sending account verification emails.
 
+
+[View Me](https://roshini-n.github.io/NotesApp-Android/Notes.html)
