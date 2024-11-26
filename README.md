@@ -14,7 +14,7 @@
 ---
 
 ## 🔧 Technologies Used:
-- **Frontend**: Android Studio with Java
+- **Frontend**: Android Studio with Java, Kotlin
 - **Backend**: Firebase Authentication & Firestore Database for scalable and secure user management.
 - **Email Service**: Firebase for sending account verification emails.
 
